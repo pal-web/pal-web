@@ -15,4 +15,3 @@ printf("enter two nunber:\n") ;
 scanf("%d%d",&a,&b);
 great(a,b);
 getch();
-}hhhhh
